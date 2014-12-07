@@ -1,0 +1,14 @@
+{
+    "name" : "myheroku",
+    "version" : "1.0",
+    "description" : "project web testing heroku",
+    
+    "require" : {
+        "php": ">=5.3.*"
+    },
+    
+    "require-dev" : {
+        
+    }
+
+}
