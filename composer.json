@@ -4,7 +4,7 @@
     "description" : "project web testing heroku",
     
     "require" : {
-        "php": ">=5.3.*"
+        "php": ">=5.3.0"
     },
     
     "require-dev" : {
